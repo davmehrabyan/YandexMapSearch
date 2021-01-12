@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YandexMapSearch</string>
+    <string name="yandex_api_key">Your api key</string>
+</resources>
